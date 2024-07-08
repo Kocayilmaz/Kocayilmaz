@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cloud-Rile**
 
-- 🌱 I’m currently learning **SAP,ABAP**
+- 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **eneskcylmz01@gmail.com**
 
