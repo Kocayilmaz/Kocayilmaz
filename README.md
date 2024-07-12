@@ -1,6 +1,6 @@
 ![Blue Futuristic Technology LinkedIn Banner](https://github.com/Kocayilmaz/Kocayilmaz/assets/115413087/7fc1c0ef-7030-4b1d-a42a-b020c38e34c5)
 
-- 🔭 I’m currently working on *Cloud-Rile*
+- 🔭 I’m currently working on *React--figma-desing-attempt1 *
 - 🌱 I’m currently learning *React, Redux*
 - 📫 How to reach me *eneskcylmz01@gmail.com*
 
