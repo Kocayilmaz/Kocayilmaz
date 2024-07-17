@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <div>
-    <img align = "right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
+    <img align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
   </div>
     <p>🔭 I’m currently working on <em>React--figma-desing-attempt1</em></p>
     <p>🌱 I’m currently learning <em>React, Redux</em></p>
@@ -15,6 +15,11 @@
       </a>
     </p>
   </div>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,7 +75,7 @@
 
 ---
 <details>
-   <summary>more..</summary>
+  <summary>more..</summary>
 
   ![](https://komarev.com/ghpvc/?username=Kocayilmaz)
   <picture>
@@ -78,12 +83,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake.svg">
   </picture>
-<div>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz">
+
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
-  <div/>
 </details>
