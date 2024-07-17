@@ -12,7 +12,7 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: right;">
     <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" />
   </div>
 </div>
