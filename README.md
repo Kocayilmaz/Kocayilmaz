@@ -3,12 +3,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p>🔭 I’m currently working on <em>React--figma-desing-attempt1</em></p>
+    <div>
+    <img align = "right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
+  </div>
     <p>🌱 I’m currently learning <em>React, Redux</em></p>
     <p>📫 How to reach me <em>eneskcylmz01@gmail.com</em></p>
     <h3 align="left">Connect with me:</h3>
-     <div>
-    <img align = "right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
-  </div>
     <p align="left">
       <a href="https://linkedin.com/in/enes-kocayilmaz-a5b225253" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-kocayilmaz-a5b225253" height="30" width="40" />
