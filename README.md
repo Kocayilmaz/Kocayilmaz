@@ -2,10 +2,10 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🔭 I’m currently working on <em>React--figma-desing-attempt1</em></p>
     <div>
     <img align = "right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
   </div>
+    <p>🔭 I’m currently working on <em>React--figma-desing-attempt1</em></p>
     <p>🌱 I’m currently learning <em>React, Redux</em></p>
     <p>📫 How to reach me <em>eneskcylmz01@gmail.com</em></p>
     <h3 align="left">Connect with me:</h3>
