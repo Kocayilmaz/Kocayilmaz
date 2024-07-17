@@ -16,12 +16,6 @@
     </p>
   </div>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -84,9 +78,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
+</div>
 </details>
