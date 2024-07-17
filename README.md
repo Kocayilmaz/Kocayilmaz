@@ -18,8 +18,14 @@
 <img align="right" height="200" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif"  />
 <details>
   <summary>more..</summary>
+
   
   ![](https://komarev.com/ghpvc/?username=Kocayilmaz)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hzuslu/hzuslu/output/github-contribution-grid-snake.svg">
+</picture>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
 
