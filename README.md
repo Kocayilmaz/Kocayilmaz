@@ -8,12 +8,12 @@
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/enes-kocayilmaz-a5b225253" target="blank">
-        <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-kocayilmaz-a5b225253" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-kocayilmaz-a5b225253" height="30" width="40" />
       </a>
     </p>
   </div>
   <div>
-    <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
+    <img align = "right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
   </div>
 </div>
 
