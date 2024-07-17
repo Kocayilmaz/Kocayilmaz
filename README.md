@@ -1,6 +1,6 @@
 ![Blue Futuristic Technology LinkedIn Banner](https://github.com/Kocayilmaz/Kocayilmaz/assets/115413087/7fc1c0ef-7030-4b1d-a42a-b020c38e34c5)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p>🔭 I’m currently working on <em>React--figma-desing-attempt1</em></p>
     <p>🌱 I’m currently learning <em>React, Redux</em></p>
@@ -12,8 +12,8 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" />
+  <div>
+    <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" height="200" style="margin-left: 20px;" />
   </div>
 </div>
 
