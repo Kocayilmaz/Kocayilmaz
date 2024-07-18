@@ -83,4 +83,7 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  /></p>
       <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 </details>
