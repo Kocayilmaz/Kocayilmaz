@@ -1,4 +1,4 @@
-![Blue Futuristic Technology LinkedIn Banner](https://github.com/Kocayilmaz/Kocayilmaz/assets/115413087/7fc1c0ef-7030-4b1d-a42a-b020c38e34c5)
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
