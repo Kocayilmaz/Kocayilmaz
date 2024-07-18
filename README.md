@@ -1,3 +1,4 @@
+![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/db89f89b-33b9-4a80-80e0-6ab4d43aafa6)
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
