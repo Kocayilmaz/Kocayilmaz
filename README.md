@@ -1,3 +1,10 @@
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eneskocayilmaz/profile-gif/master/profile_dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eneskocayilmaz/profile-gif/master/profile.gif">
+    <img alt="Profile GIF" src="https://raw.githubusercontent.com/eneskocayilmaz/profile-gif/master/profile.gif">
+</picture>
+
+
 ![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/db89f89b-33b9-4a80-80e0-6ab4d43aafa6)
 
 
