@@ -79,11 +79,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  /></p>
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
-</div>
+  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
