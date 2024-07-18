@@ -1,6 +1,6 @@
 
 ![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/db89f89b-33b9-4a80-80e0-6ab4d43aafa6)
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
