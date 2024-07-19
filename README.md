@@ -80,7 +80,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
 </picture>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
