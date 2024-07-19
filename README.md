@@ -1,4 +1,5 @@
-![IMG-20240718-WA0034](https://github.com/user-attachments/assets/73fc9778-5d54-4391-bfee-b3237cca9cf9)
+![Green Minimalist Corporate Personal Profile LinkedIn Banner_20240718_231233_0000](https://github.com/user-attachments/assets/b03cf6c3-1a26-43c2-ac27-76650fde07da)
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
