@@ -74,6 +74,12 @@
 <details>
   <summary>more..</summary>
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
+
   ![](https://komarev.com/ghpvc/?username=Kocayilmaz)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake-dark.svg">
