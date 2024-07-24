@@ -76,17 +76,16 @@
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
 
-  ![](https://komarev.com/ghpvc/?username=Kocayilmaz)
+  <p> align= "right" ![](https://komarev.com/ghpvc/?username=Kocayilmaz) <p/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
 </picture>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
