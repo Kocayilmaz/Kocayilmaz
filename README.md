@@ -80,7 +80,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kocayilmaz&" alt="kocayilmaz" /></p>
 
-  <p> align= "right" ![](https://komarev.com/ghpvc/?username=Kocayilmaz) <p/>
+   ![](https://komarev.com/ghpvc/?username=Kocayilmaz)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kocayilmaz/Kocayilmaz/output/github-contribution-grid-snake.svg">
