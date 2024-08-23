@@ -73,8 +73,32 @@
 ---
 <details>
   <summary>more..</summary>
+<br>
+  <p><img align="center" margin= "0px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
+  
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=Kocayilmaz&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kocayilmaz&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kocayilmaz&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocayilmaz&hide_border=true&theme=radical">
+        </a>
+        </td>
+    </tr>
+</table>
 
-  <p><img align="left" margin= "0px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kocayilmaz&show_icons=true&locale=en" alt="kocayilmaz" /></p>
 
