@@ -74,7 +74,6 @@
 <details>
   <summary>more..</summary>
 <br>
-  <p><img align="center" margin= "0px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocayilmaz&show_icons=true&locale=en&layout=compact" alt="kocayilmaz" /></p>
   
 <table>
     <tr>
